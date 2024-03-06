@@ -1,4 +1,4 @@
-# Data Sccientist
+# Data Scientist
 
 ### Technical Skills : Python, SQL, Computer Vision, Deep Learning, Machine Learning
 
