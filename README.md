@@ -24,6 +24,6 @@ which consists of 20 classes
 
 
 #### CERTIFICATIONS
--Introduction to Machine Learning
--Introduction to SQL
--Python
+-[Introduction to Machine Learning](https://drive.google.com/file/d/1kBjCUK7DcbymKpsxX9pHygBSyZYMDdHK/view) 
+-[Introduction to SQL](https://drive.google.com/file/d/1PjvFsUoR1DglChIB1wsthygIBwj2X-N0/view)
+-[Python](https://drive.google.com/file/d/1b3inlTetiTyrAQlV76pfdwcUcAVyKNqD/view)
