@@ -8,7 +8,7 @@ I'm Zakeerhussain Kudari, a passionate Data Scientist enthusiast with a knack fo
 - 🎓 I hold a master's degree in Data Science from Defence Institute of Advanced Technology, Pune.
 - 🌱 I'm always learning and exploring new techniques and tools in the field of data science.
 - 💡 I'm passionate about Machine Learning, Deep Learning, Computer Vision and Generative AI.
-- 📫 You can reach me via [email](mailto:zakeerhussainkudari@gmail.com) or connect with me on [LinkedIn]((https://www.linkedin.com/in/zakeerhussain-kudari/)!
+- 📫 You can reach me via [email](mailto:zakeerhussainkudari@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/zakeerhussain-kudari/)!
 
 ## My Interests
 - 📊 Exploring and analyzing complex datasets to uncover patterns and trends.
@@ -23,7 +23,7 @@ I'm Zakeerhussain Kudari, a passionate Data Scientist enthusiast with a knack fo
 ## Let's Connect!
 - 💬 Feel free to reach out if you have any questions or want to discuss data science-related topics.
 - 📫 You can email me at [email](mailto:zakeerhussainkudari@gmail.com).
-- 🌐 Check out my [LinkedIn profile]((https://www.linkedin.com/in/zakeerhussain-kudari/)) for more professional information.
+- 🌐 Check out my [LinkedIn]((https://www.linkedin.com/in/zakeerhussain-kudari/)) for more professional information.
 
 
 ### Technical Skills : Python, SQL, Computer Vision, Deep Learning, Machine Learning, Generative AI
