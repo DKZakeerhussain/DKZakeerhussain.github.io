@@ -87,3 +87,121 @@ architectures for specific object detection tasks
 -[Introduction to SQL](https://drive.google.com/file/d/1PjvFsUoR1DglChIB1wsthygIBwj2X-N0/view)
 -[Python](https://drive.google.com/file/d/1b3inlTetiTyrAQlV76pfdwcUcAVyKNqD/view)
 -[Foundations of Prompt Engineering](https://drive.google.com/file/d/15wq75jZnbA19F8nPZ6lWF_GXfUHdlOEn/view?usp=sharing)
+
+
+
+# My GitHub Portfolio
+
+Welcome to my GitHub portfolio! Here, you will find a collection of my projects categorized into three main domains: Machine Learning, Computer Vision, and Generative AI. Click on each domain to explore the projects.
+
+## Table of Contents
+- [Machine Learning](#machine-learning)
+- [Computer Vision](#computer-vision)
+- [Generative AI](#generative-ai)
+
+---
+
+<details>
+<summary id="machine-learning"><h2>Machine Learning</h2></summary>
+
+### 1. **Sales Prediction Model**
+
+**Description:** A machine learning model to predict sales based on historical data. It uses various regression techniques to forecast future sales, helping businesses to plan inventory and marketing strategies effectively.
+
+**Technologies Used:** Python, Pandas, Scikit-Learn, Matplotlib
+
+**Features:**
+- Data preprocessing and visualization
+- Multiple regression models (Linear Regression, Random Forest, etc.)
+- Model evaluation and selection
+
+**Repository Link:** [Sales Prediction Model](https://github.com/yourusername/sales-prediction-model)
+
+---
+
+### 2. **Customer Segmentation**
+
+**Description:** This project involves segmenting customers based on their purchasing behavior using clustering algorithms. It helps businesses to target specific groups for marketing campaigns.
+
+**Technologies Used:** Python, Pandas, Scikit-Learn, Matplotlib, Seaborn
+
+**Features:**
+- Data preprocessing and visualization
+- Clustering using K-Means, Hierarchical Clustering
+- Interpretation of clusters
+
+**Repository Link:** [Customer Segmentation](https://github.com/yourusername/customer-segmentation)
+
+</details>
+
+---
+
+<details>
+<summary id="computer-vision"><h2>Computer Vision</h2></summary>
+
+### 1. **Object Detection System**
+
+**Description:** A real-time object detection system using deep learning. The system can detect and classify objects in images and videos, making it suitable for various applications like surveillance and autonomous vehicles.
+
+**Technologies Used:** Python, TensorFlow, OpenCV, YOLO
+
+**Features:**
+- Real-time object detection
+- Pre-trained YOLO model
+- Custom object training
+
+**Repository Link:** [Object Detection System](https://github.com/yourusername/object-detection-system)
+
+---
+
+### 2. **Image Classification**
+
+**Description:** This project involves building an image classification model using convolutional neural networks (CNNs). The model classifies images into predefined categories with high accuracy.
+
+**Technologies Used:** Python, TensorFlow, Keras, OpenCV
+
+**Features:**
+- Data augmentation and preprocessing
+- Building and training CNN model
+- Model evaluation and testing
+
+**Repository Link:** [Image Classification](https://github.com/yourusername/image-classification)
+
+</details>
+
+---
+
+<details>
+<summary id="generative-ai"><h2>Generative AI</h2></summary>
+
+### 1. **Blog Generation LLM App**
+
+**Description:** An application that generates blog content using a large language model (LLM). The app provides a user-friendly interface for users to generate blogs on different topics and for various audiences.
+
+**Technologies Used:** Python, Streamlit, Hugging Face, LLama-2-13b-chat
+
+**Features:**
+- User-friendly interface built with Streamlit
+- Blog generation using LLama-2-13b-chat pretrained model
+- Ability to choose the target audience and topic
+
+**Repository Link:** [Blog Generation LLM App](https://github.com/yourusername/blog-generation-llm)
+
+---
+
+### 2. **AnyPDFSummarizer**
+
+**Description:** A tool that extracts text from any given PDF and provides summaries or Q&A based on the content. It uses advanced NLP techniques to understand and process the text efficiently.
+
+**Technologies Used:** Python, Streamlit, OpenAI, LLama, Pinecone, SentenceTransformer, PyMuPDF
+
+**Features:**
+- Extract text from any given PDF
+- Generate summaries of the extracted text
+- Provide Q&A functionality based on the extracted text
+
+**Repository Link:** [AnyPDFSummarizer](https://github.com/yourusername/anypdfsummarizer)
+
+</details>
+
+---
