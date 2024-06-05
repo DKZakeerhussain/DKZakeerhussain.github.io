@@ -1,10 +1,36 @@
 # Data Scientist
 
-### Technical Skills : Python, SQL, Computer Vision, Deep Learning, Machine Learning
+# Hello, World! 👋
+
+I'm Zakeerhussain Kudari, a passionate Data Scientist enthusiast with a knack for Data. Welcome to my GitHub profile!
+
+## About Me
+- 🎓 I hold a master's degree in Data Science from Defence Institute of Advanced Technology, Pune.
+- 🌱 I'm always learning and exploring new techniques and tools in the field of data science.
+- 💡 I'm passionate about Machine Learning, Deep Learning, Computer Vision and Generative AI.
+- 📫 You can reach me via [email](mailto:zakeerhussainkudari@gmail.com) or connect with me on [LinkedIn]((https://www.linkedin.com/in/zakeerhussain-kudari/)!
+
+## My Interests
+- 📊 Exploring and analyzing complex datasets to uncover patterns and trends.
+- 🤖 Developing predictive models using machine learning algorithms.
+- 🧠 Building deep learning models for various applications.
+- 👁️ Applying computer vision techniques to interpret and understand visual data.
+- 🌀 Experimenting with generative AI to create new and innovative solutions.
+
+## What You'll Find Here
+- 🛠️ Projects showcasing my skills in Machine Learning, Deep Learning, Computer Vision and Generative AI..
+
+## Let's Connect!
+- 💬 Feel free to reach out if you have any questions or want to discuss data science-related topics.
+- 📫 You can email me at [email](mailto:zakeerhussainkudari@gmail.com).
+- 🌐 Check out my [LinkedIn profile]((https://www.linkedin.com/in/zakeerhussain-kudari/)) for more professional information.
+
+
+### Technical Skills : Python, SQL, Computer Vision, Deep Learning, Machine Learning, Generative AI
 
 ### EDUCATION
 - MTech, Data science | Defence Institute of Advanced Technology, Pune | (May-2024)
-- BTech, Mechanical Engineering | Visvesvaraya Technological University |(June-2019)
+- BE, Mechanical Engineering | Visvesvaraya Technological University |(June-2019)
 
 ### PROJECTS
 #### M.Tech Project - GENERALIZING THE UNSEEN
@@ -89,4 +115,6 @@ architectures for specific object detection tasks
 -[Foundations of Prompt Engineering](https://drive.google.com/file/d/15wq75jZnbA19F8nPZ6lWF_GXfUHdlOEn/view?usp=sharing)
 
 
+## Thanks for Visiting!
+Thank you for taking the time to visit my GitHub profile. I'm excited to connect with fellow developers, collaborate on projects, and learn together!
 
