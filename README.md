@@ -174,33 +174,49 @@ Welcome to my GitHub portfolio! Here, you will find a collection of my projects 
 <details>
 <summary id="generative-ai"><h2>Generative AI</h2></summary>
 
-### 1. **Blog Generation LLM App**
+### Blog Generation using LLM 
 
-**Description:** An application that generates blog content using a large language model (LLM). The app provides a user-friendly interface for users to generate blogs on different topics and for various audiences.
+**Description**
+This project involves creating a Blog Generation application that utilizes a Large Language Model (LLM) to generate blog content. The app is built using Streamlit for the user interface, Hugging Face for model deployment, and the LLama-2-13b-chat pretrained model for the blog generation. Users can select from three main categories: Researchers, Students, and Common People, and specify the area or topic they want to write about. The application then generates a blog post tailored to their needs.
+
+**Features**
+- User-friendly interface built with Streamlit.
+- Blog generation using LLama-2-13b-chat pretrained model.
+- Ability to choose the target audience: Researchers, Students, or Common People.
+- Topic customization based on user input.
+- Deployment on Hugging Face for easy access and scalability.
 
 **Technologies Used:** Python, Streamlit, Hugging Face, LLama-2-13b-chat
-
-**Features:**
-- User-friendly interface built with Streamlit
-- Blog generation using LLama-2-13b-chat pretrained model
-- Ability to choose the target audience and topic
-
-**Repository Link:** [Blog Generation LLM App](https://github.com/yourusername/blog-generation-llm)
-
 ---
+### Extraction Tool - A Generative AI Project
 
-### 2. **AnyPDFSummarizer**
+**Description**
+This project involves creating an Extraction Tool that utilizes Generative AI to process any given URLs, extract the texts, and then provide summaries or Q&A about the article. The application uses OpenAI or LLama as the language models (LLMs), Pinecone as the vector database (VectorDB), SentenceTransformer or OpenAI embeddings for embeddings, and Streamlit for the user interface.
 
-**Description:** A tool that extracts text from any given PDF and provides summaries or Q&A based on the content. It uses advanced NLP techniques to understand and process the text efficiently.
+**Features**
+- Extract text from any given URL.
+- Generate summaries of the extracted text.
+- Provide Q&A functionality based on the extracted text.
+- User-friendly interface built with Streamlit.
+- Efficient text search and retrieval using Pinecone as the vector database.
+- High-quality embeddings using SentenceTransformer or OpenAI embeddings.
 
-**Technologies Used:** Python, Streamlit, OpenAI, LLama, Pinecone, SentenceTransformer, PyMuPDF
+**Technologies Used:** Python, Streamlit, OpenAI, LLama, Pinecone, SentenceTransformer, OpenAI embeddings
+---
+### AnyPDFSummarizer - A Generative AI Project
 
-**Features:**
-- Extract text from any given PDF
-- Generate summaries of the extracted text
-- Provide Q&A functionality based on the extracted text
+**Description**
+This project involves creating a tool that takes any given PDF, extracts the text, and provides summaries or Q&A based on the content of the PDF. The application leverages OpenAI or LLama as the language models (LLMs), Pinecone as the vector database (VectorDB), SentenceTransformer or OpenAI embeddings for embeddings, and Streamlit for the user interface.
 
-**Repository Link:** [AnyPDFSummarizer](https://github.com/yourusername/anypdfsummarizer)
+**Features**
+- Extract text from any given PDF.
+- Generate summaries of the extracted text.
+- Provide Q&A functionality based on the extracted text.
+- User-friendly interface built with Streamlit.
+- Efficient text search and retrieval using Pinecone as the vector database.
+- High-quality embeddings using SentenceTransformer or OpenAI embeddings.
+
+**Technologies Used:** Python, Streamlit, OpenAI, LLama, Pinecone, SentenceTransformer, OpenAI embeddings, PyMuPDF (for PDF text extraction)
 
 </details>
 
