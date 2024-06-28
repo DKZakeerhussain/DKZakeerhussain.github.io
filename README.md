@@ -108,12 +108,12 @@ architectures for specific object detection tasks
 **Technologies Used:** Python, PyTorch, Streamlit, 
 
 #### CERTIFICATIONS
--[Train and Fine-Tune LLMs for Production](https://drive.google.com/file/d/1aplG3CpesyS32SDcw24SB3QhH-qzXCfi/view?usp=sharing)
--[LangChain and Vector Databases in Production](https://drive.google.com/file/d/198Habt8myKFQqze-va32Vx5Hp4OQzizm/view?usp=sharing)
--[Foundations of Prompt Engineering](https://drive.google.com/file/d/15wq75jZnbA19F8nPZ6lWF_GXfUHdlOEn/view?usp=sharing)
--[Introduction to Machine Learning](https://drive.google.com/file/d/1kBjCUK7DcbymKpsxX9pHygBSyZYMDdHK/view) 
--[Introduction to SQL](https://drive.google.com/file/d/1PjvFsUoR1DglChIB1wsthygIBwj2X-N0/view)
--[Python](https://drive.google.com/file/d/1b3inlTetiTyrAQlV76pfdwcUcAVyKNqD/view)
+- [Train and Fine-Tune LLMs for Production](https://drive.google.com/file/d/1aplG3CpesyS32SDcw24SB3QhH-qzXCfi/view?usp=sharing)
+- [LangChain and Vector Databases in Production](https://drive.google.com/file/d/198Habt8myKFQqze-va32Vx5Hp4OQzizm/view?usp=sharing)
+- [Foundations of Prompt Engineering](https://drive.google.com/file/d/15wq75jZnbA19F8nPZ6lWF_GXfUHdlOEn/view?usp=sharing)
+- [Introduction to Machine Learning](https://drive.google.com/file/d/1kBjCUK7DcbymKpsxX9pHygBSyZYMDdHK/view) 
+- [Introduction to SQL](https://drive.google.com/file/d/1PjvFsUoR1DglChIB1wsthygIBwj2X-N0/view)
+- [Python](https://drive.google.com/file/d/1b3inlTetiTyrAQlV76pfdwcUcAVyKNqD/view)
 
 
 
