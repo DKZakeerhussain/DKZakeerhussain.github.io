@@ -32,6 +32,9 @@ I'm Zakeerhussain Kudari, a passionate Data Scientist enthusiast with a knack fo
 - MTech, Data science | Defence Institute of Advanced Technology, Pune | (May-2024)
 - BE, Mechanical Engineering | Visvesvaraya Technological University |(June-2019)
 
+
+
+
 ### PROJECTS
 #### M.Tech Project - GENERALIZING THE UNSEEN
 - The project aimed at addressing the limitations of supervised classifiers that rely largely
